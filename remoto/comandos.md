@@ -8,4 +8,4 @@ git remote -v
 
 # comando para eliminar una conexion remota
 
-git remote remove 
+git remote remove nombre_descripcion
